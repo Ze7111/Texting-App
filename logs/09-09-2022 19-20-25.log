@@ -1,0 +1,5 @@
+09-09-22  19:20:25 - INFO - count_log_files function is starting in file /mnt/z/GitHub/Repos/Texting-App/backend/core/basic_handler.py
+09-09-22  19:20:25 - INFO - count_log_files function is finsihed in file /mnt/z/GitHub/Repos/Texting-App/backend/core/basic_handler.py
+09-09-22  19:20:25 - INFO - Number of log files in ./logs is 6 before deletion
+09-09-22  19:20:25 - INFO - Removed log file logs/09-09-2022 19-19-53.log in ./logs
+09-09-22  19:20:25 - INFO - Number of log files in ./logs is 5 after deletion
