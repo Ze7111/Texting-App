@@ -24,7 +24,7 @@ class innit(): # innit class
     def main(self): # main function
         
         pass # pass
-        
+
 if __name__ == '__main__': # check if file is being run directly
     if runadmin is True: # if runadmin is true
         admin() # run admin module ---------------------------------------- use this only if you want to run the admin module ----------------------------------------
